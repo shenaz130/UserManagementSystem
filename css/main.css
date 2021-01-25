@@ -1,0 +1,33 @@
+body{
+	font-size: 14px;
+	font-family: Trebuchet MS;
+}
+
+.login{
+	width: 350px;
+	font-family: Trebuchet MS;
+	margin: 100px auto;
+
+}
+p.error{
+	background: red;
+	color: white;
+	height: 25px;
+	text-align: center;
+	padding: 5px;
+	margin-top: 5px;
+}
+label{
+	margin-left: 70px;
+	display: block;
+	padding: 5px;
+}
+ input{
+ 	font-family: Trebuchet MS;
+ 	margin-left: 70px;
+ }
+ button{
+ 		margin-left: 70px;
+ 		margin-bottom: 15px;
+ }
+ }
